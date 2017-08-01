@@ -1,0 +1,3 @@
+[submodule "practice-angular-animations"]
+	path = practice-angular-animations
+	url = https://github.com/frontainer/practice-angular-animations.git
